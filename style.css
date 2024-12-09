@@ -160,7 +160,7 @@ span{
     width:23%;
 }
 .inner1{
-    height:300px;
+    height:250px;
     background-image: url(image2.jpg);
     background-size: contain;
     background-repeat:no-repeat;
@@ -176,7 +176,7 @@ span{
     margin-top:15px;
 }
 .inner3{
-    height:300px;
+    height:250px;
     background-image: url(image4.jpg);
     background-size: contain;
     background-repeat:no-repeat;
